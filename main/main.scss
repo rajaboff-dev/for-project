@@ -1,3 +1,22 @@
+
+$headerbgcolor:#1C1E53;
+$sec1bgcolor:#F4F6FC;
+$sec2Hovercolor:#2405F2;
+$sec1Txtcolor:#282938;
+$headerBorderColor:#F4F6FC33;
+$headertextColor:#BBBBCB;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1280px;
+}
+
 header {
     width: 100%;
     height: 100px;
